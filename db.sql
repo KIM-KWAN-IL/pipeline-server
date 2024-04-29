@@ -1,3 +1,4 @@
+-- Active: 1712651748034@@127.0.0.1@3306@testmydb
 -- EC2에서 RDS 접속해서 초기 텍스트 입력
 -- mysql -h DB엔드포인트 -u admin -p 
 create database texts;
